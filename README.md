@@ -19,12 +19,14 @@ The framework operates in two collaborative stages:
 
 ### Evaluation
 
-1.Extract the reference PRNU camera fingerprint
+1. Extract the reference PRNU camera fingerprint
+
 Run the following command to extract the reference PRNU fingerprint of the camera:
 ```bash
 python EXTRACT_PRNU_ALL_IMAGE.py
 ```
 2. PRNU feature matching and verification
+
 Based on the extracted reference PRNU, perform matching and performance evaluation:
 ```bash
 python ./Video_match/cnn_test_new.py
