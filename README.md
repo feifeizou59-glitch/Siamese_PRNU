@@ -1,4 +1,3 @@
-markdown
 # PRNU-Adapted Deep Fingerprint Learning and Reparameterized Correlation for Camera Source Identification
 
 ## 🌟 Overview
